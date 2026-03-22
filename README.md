@@ -1,6 +1,35 @@
-# ecommerce-sales-dashboard-excel
+# 📊 E-Commerce Sales Dashboard (Excel)
 
+## 📌 Project Overview
 
+This project presents an interactive Excel dashboard to analyze e-commerce sales performance, trends, and key business metrics.
+
+## 🎯 Objectives
+
+* Analyze overall sales performance
+* Identify top-performing products
+* Understand regional sales distribution
+* Track sales trends over time
+
+## 🛠 Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Charts & Graphs
+* Slicers & Filters
+
+## 📂 Project Files
+
+* Ecommerce Sales Analysis.xlsx
+
+## 📈 Key Insights
+
+* Identified best-selling products and categories
+* Observed sales trends across different time periods
+* Analyzed region-wise performance
+* Found patterns in customer purchasing behavior
+
+## 📸 Dashboard Preview
 
 [Dashboard] <img width="1776" height="955" alt="Screenshot 2026-03-22 163702" src="https://github.com/user-attachments/assets/a890e100-21ba-4217-a750-d659d9d2546c" />
 
@@ -9,3 +38,17 @@
 
 
 [Insights]<img width="1780" height="948" alt="Screenshot 2026-03-22 163924" src="https://github.com/user-attachments/assets/19a1eed3-6518-416e-9e5a-2e08f4e12792" />
+
+
+## 🚀 How to Use
+
+1. Download the Excel file
+2. Open in Microsoft Excel
+3. Use filters and slicers to explore data
+
+## 💡 Conclusion
+
+This dashboard helps in understanding business performance and supports data-driven decision-making.
+
+
+
